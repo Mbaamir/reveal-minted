@@ -1,0 +1,8 @@
+/node_modules
+/hidden/
+/public
+
+contractConfig.json
+serverConfig.json
+package-lock.json
+MbaamirToken.json
